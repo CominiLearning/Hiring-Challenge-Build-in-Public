@@ -183,4 +183,4 @@ This project is open source under the Apache License 2.0. This means:
 
 Why this license? We want to build this in public and allow others to learn from and contribute to these educational tools, while ensuring we can sustainably maintain and develop the platform, including commercial applications.
 
-You can find the full license in the LICENSE file of this repository.
+You can find the full license in the LICENSE file of this repository
